@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Laba04_4</title>
+    <style>
+        form{background-color: indigo; font-size: 1.2em; color: white; width: 410px; padding: 1px; line-height: 20px;}
+        .label{
+            display: inline-block;
+            width: 170px;
+            text-align: left;
+            margin-left: 10px;
+        }
+        input[type="text"]{
+            background-color: rgba(255,255,255,.5); 
+            color: rgba(255,255,255,1); 
+            box-shadow: inset 0 0 10px rgba(255,255,255,.75);
+            width: 15em;}
+        input[type="text"]:focus{background-color: white; color: black;}
+        input[type="email"]{ width: 15em;
+            background-color: rgba(255,255,255,.5); 
+            color: rgba(255,255,255,1); 
+            box-shadow: inset 0 0 10px rgba(255,255,255,.75);}
+        .but{background-color: navy; 
+            box-shadow: 0 0 4px white; 
+            color: white;}
+        #reg{margin-left: 150px;}
+    </style>
+</head>
+<body>
+    <form class="userform">
+    <p>
+    <label for="fam" class="label">Фамилия:</label>
+    <input type="text" name="fio" id="fam">
+    </p>
+    <p>
+    <label for="im" class="label">Имя:</label>
+    <input type="text" name="fio" id="im">
+    </p>
+    <p>
+    <label for="ot" class="label">Отчество:</label>
+    <input type="text" name="fio" id="ot">
+    </p>
+    <p>
+    <label for="age" class="label">Ваш возраст:</label>
+    <input type="text" id="age">
+    </p>
+    <p>
+    <span class="label">Пол:</span>
+    <label><input type="checkbox" name="nem">Мужской</label>
+    <label><input type="checkbox" name="women">Женский</label>
+    </p>
+    <p>
+    <label for="mail" class="label">Email:</label>
+    <input type="email" name="mail" id="mail">
+    </p>
+    <p>
+    <label for="country" class="label">Страна проживания</label>
+    <input type="text" name="fio" id="country">
+    </p>
+    <p>
+    <label for="country" class="label">Откуда вы узнали о нас?</label>
+    <select>
+        <option  hidden disabled selected>Выберите вариат</option>
+        <option>Из соц. сетей</option>
+        <option>Рассказали знакомые</option>
+        <option>Другой вариант</option>
+    </select>
+
+    </p>
+    <p>
+    <label for="data" class="label">Дата заполнения</label>
+    <input type="date" name="dat" id="data">
+    </p>
+    <p>
+    <input type="submit" class="but" id="reg" value="Регистрация">
+    <input  type="reset" class="but" id="otm">
+    </p>
+    </form>
+</body>
+</html>

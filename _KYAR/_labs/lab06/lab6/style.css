@@ -1,0 +1,66 @@
+ul li {
+    list-style: none;
+    background-image: url(lada2.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 4px;
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+body {
+    background: url(bstu.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 20%;
+}
+h1 {
+    color: blue; 
+    font-family: 'algerian';
+    text-align: center;
+}
+h2, h3 {
+    text-align: center;
+}
+table, td, th {
+    border: 3px solid grey;
+ }
+.hh2 {
+    font-family: 'Arial';
+    text-align: left !important;
+}
+.hhh2 {
+    font-family: 'Arial';
+    text-align: center;
+}
+ol, li {
+    font-family: 'candara';
+}
+.p1 {
+    font-family: 'cursive';
+}
+.p2 {
+    font-family:'candara';
+    font-size: 16px;
+    color:brown;
+ }
+.p3 {
+    font-family: 'lucida sans unicode';
+    font-size: 12px;
+    color:darkgoldenrod;
+}
+.p4 {
+    font-family: 'Courier New';
+    font-size: 19px;
+    color:rgb(65, 55, 124);
+}
+
+.hh3 {
+    font-family: 'century gothic';
+} 
+.i1 {
+    float: left;
+    margin-right: 25px;
+}
+.i2 {
+    float: right;
+}

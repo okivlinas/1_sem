@@ -1,0 +1,10 @@
+table, tr, td{
+    border-collapse:collapse;
+    border: 2px solid gray;
+}
+tr:first-child{
+    background-color: blueviolet;
+}
+td:first-child{
+    background-color: aqua;
+}

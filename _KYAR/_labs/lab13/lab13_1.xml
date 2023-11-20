@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?>
+<catalog>
+<cd>
+    <students>Иванов В. В.</students>
+    <m1>5</m1>
+    <m2>7</m2>
+    <m3>9</m3>
+    <m4>2</m4>
+</cd>
+<cd>
+    <students>Петров А. Д.</students>
+    <m1>8</m1>
+    <m2>4</m2>
+    <m3>5</m3>
+    <m4>4</m4>
+</cd>
+<cd>
+    <students>Рыбкина Р. Д.</students>
+    <m1>7</m1>
+    <m2>7</m2>
+    <m3>4</m3>
+    <m4>3</m4>
+</cd>
+<cd>
+    <students>Кроликов А. Е.</students>
+    <m1>4</m1>
+    <m2>9</m2>
+    <m3>8</m3>
+    <m4>7</m4>
+</cd>
+<cd>
+    <students>Зимов К. П.</students>
+    <m1>5</m1>
+    <m2>8</m2>
+    <m3>7</m3>
+    <m4>3</m4>
+</cd>
+<cd>
+    <students>Родина П. А.</students>
+    <m1>6</m1>
+    <m2>4</m2>
+    <m3>9</m3>
+    <m4>2</m4>
+</cd>
+<cd>
+    <students>Евгеньев С. М.</students>
+    <m1>4</m1>
+    <m2>9</m2>
+    <m3>5</m3>
+    <m4>4</m4>
+</cd>
+<cd>
+    <students>Димов П. С.</students>
+    <m1>5</m1>
+    <m2>7</m2>
+    <m3>5</m3>
+    <m4>5</m4>
+</cd>
+<cd>
+    <students>Семенов А. Е.</students>
+    <m1>9</m1>
+    <m2>5</m2>
+    <m3>7</m3>
+    <m4>6</m4>
+</cd>
+<cd>
+    <students>Страконицкий Ф. Д.</students>
+    <m1>2</m1>
+    <m2>9</m2>
+    <m3>5</m3>
+    <m4>7</m4>
+</cd>
+<cd>
+    <students>Стариков А. П.</students>
+    <m1>9</m1>
+    <m2>9</m2>
+    <m3>6</m3>
+    <m4>8</m4>
+</cd>
+<cd>
+    <students>Зыбкин Д. С.</students>
+    <m1>6</m1>
+    <m2>2</m2>
+    <m3>6</m3>
+    <m4>5</m4>
+</cd>
+<cd>
+    <students>Филлипов Р. П.</students>
+    <m1>9</m1>
+    <m2>7</m2>
+    <m3>9</m3>
+    <m4>4</m4>
+</cd>
+<cd>
+    <students>Узкин Н. Г</students>
+    <m1>9</m1>
+    <m2>5</m2>
+    <m3>6</m3>
+    <m4>7</m4>
+</cd>
+</catalog>

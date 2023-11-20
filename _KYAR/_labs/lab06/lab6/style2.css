@@ -1,0 +1,27 @@
+img{
+    width: 300px;
+    height: 200px;
+}
+figure{
+    background: #bfbfd8; 
+    padding: 10px; 
+    display: block;
+    width: 300px; 
+    float: left;
+    margin: 10px 10px 10px 10px; 
+    text-align: center; 
+}
+.conteiner{
+    margin: 0 auto;
+    color: rgb(44, 40, 73);
+    padding: 0;
+    display: flex; 
+    flex-flow: row wrap; 
+    justify-content: space-between;
+}
+figcaption{
+    color: royalblue;
+    font-size: 18px;
+    font-family: Lucida Console;
+    font-style: italic;
+ }    
